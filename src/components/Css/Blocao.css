@@ -1,0 +1,29 @@
+.Imagens{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+    top: 100px;
+    
+}
+
+.img-mulher{
+    height: auto;
+    width: 300px;
+    padding: 20px;
+}
+
+.texto{
+    position: relative;
+    text-align: center;
+
+}
+
+.texto-sub{
+
+
+}
+
+.text-conteiner{
+
+}

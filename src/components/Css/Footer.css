@@ -1,0 +1,40 @@
+.Footer-container{
+    color: #007bff;
+    background-color:#007bff;
+    height: 100px;
+    
+    
+}
+
+.Footer{
+    color: #007bff;
+    background-color:#007bff;
+    height: 75px;
+    position: relative;
+    top: 650px;
+    height: 100px;
+
+}
+
+.footer-text{
+    color: white;
+    font-size: 20px;
+    position: relative;
+    top: 20px;
+
+
+}
+
+.footer-sub{
+    color: white;
+    position: relative;
+    top: 10px;
+}
+
+.sesi{
+    position: absolute;
+    left: 200px;
+    width: auto;
+    height: 75px;
+    top: 20px;
+}

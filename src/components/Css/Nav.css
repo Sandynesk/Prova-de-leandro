@@ -1,0 +1,26 @@
+.Navbar-container{
+    color: rgb(255, 255, 255);
+    background-color: #007bff;
+    height: 75px;
+    
+}
+
+.nav-comp{
+    display: flex;
+    justify-content: center;
+    float: left;
+    position: relative;
+    left: 950px;
+    font-size: 15px;
+    font-weight: bold;
+    top: 10px;
+    
+}
+
+.senai{
+    height: auto;
+    width: 150px;
+    position: relative;
+    left: -550px;
+    top: 15px;
+}
